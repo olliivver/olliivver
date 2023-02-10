@@ -6,7 +6,7 @@
 <p>😄 Pronouns: he/him</p>
 <p>⚡ Fun fact: I train Jiu Jitsu, and I play piano and chess</p>
 <p>🥳 Get in touch with me! olivermercersmail@gmail.com</p>
-<p>🤹🏼 Add me on Linkedin - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]([https://www.linkedin.com/in/katyadanilova/](https://www.linkedin.com/in/omercer/)</p>
+<p>🤹🏼 Add me on Linkedin - [[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]([https://www.linkedin.com/in/katyadanilova/](https://www.linkedin.com/in/omercer/)]</p>
 
 ## Tech Skills:
 
